@@ -1,6 +1,6 @@
 # 7.0
 
-Getting evasi0n7 (for jailbreaking iOS 7.0.x) to play nicely!
+Getting evasi0n7 (for jailbreaking iOS 7.0.x) to play nicely, or at least be able to work!
 
 The macOS applications provided don't work on macOS 10.15+, so you'll want to run Windows in a VM...
 
