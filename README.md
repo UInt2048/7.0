@@ -2,7 +2,7 @@
 
 Getting evasi0n7 (for jailbreaking iOS 7.0.x) to play nicely, or at least be able to work!
 
-The macOS applications provided don't work on macOS 10.15+, so you'll want to run Windows in a VM...
+The macOS applications provided don't work on macOS 10.15+, just like the original, due to lack of 64-bit support, and there isn't anything I can do about that.
 
 ## evasi0n7-14
 
