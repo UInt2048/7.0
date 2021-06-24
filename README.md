@@ -16,4 +16,6 @@ Patched in 2016 by [Reddit user u/spockers](https://www.reddit.com/r/sauriksbear
 
 ## evasi0n7-20
 
-Patched in 2020 by yours truly with a plist authored by [Reddit user u/Whistler_V6T](https://www.reddit.com/r/LegacyJailbreak/comments/ifmlpx/tutorial_how_to_jailbreak_ios_70x_with_evasi0n7/)! If you're worried this URL business will happen again, now you don't need to! This patch changes the URL to http://localhost/evasi0n-ipa-info.plist (so you'll need to download `18.plist` and rename it, and `WWDC16.ipa` and rename it to `WWDC.ipa`) so you can set up a local server using a program like WAMP or MAMP and put it there instead.
+Patched in 2020 by yours truly with a plist authored by [Reddit user u/Whistler_V6T](https://www.reddit.com/r/LegacyJailbreak/comments/ifmlpx/tutorial_how_to_jailbreak_ios_70x_with_evasi0n7/)! If you're worried this URL business will happen again, now you don't need to! This patch changes the URL to http://localhost/evasi0n-ipa-info.plist (so you'll need to download `18.plist` and rename it, and `WWDC16.ipa` and rename it to `WWDC.ipa`).
+
+You can use a Python one-liner such as `sudo python3 -m http.server 80` or a program such as WAMP or MAMP to set up a local server. There are undoubtedly numerous methods to do this, but setting up a local server is outside of the scope of this repository.
